@@ -15,25 +15,4 @@ The following code files can be used to reproduce simulation results presented i
    
 4.  A `realdata` directory - This directory contains real data analysis files, including code, the real data, and the results. See `realdata/README.md` for more details.
 
-## File Tree
-
-Paper_FactorSAR
-
-``
-├── simulation
-│   ├── KEM_SIMU.py
-│   ├── Plot_Metrics_Compare.R
-│   ├── __pycache__
-│   ├── data_generate.py
-│   ├── 【All0】simulation_study.ipynb
-│   ├── 【Figure1】simulation_case_show.ipynb
-│   ├── 【compare】simulation_case_show.ipynb
-│   └── 【results】
-├── realdata
-│   ├── GMM.py
-│   ├── Kmeans.py
-│   └── __pycache__
-└── README.md
-''
-
 
