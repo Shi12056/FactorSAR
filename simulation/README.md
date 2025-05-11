@@ -1,1 +1,5 @@
+Simulation studies
+================
+
+To replicate the simulation analysis, run the script
 
