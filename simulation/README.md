@@ -18,3 +18,19 @@ scripts/
 ├── DIM.ipynb
 └── LSM.ipynb
 
+```
+Each notebook simulates data under a specific network model and computes the estimation results. The corresponding simulation results are saved in subdirectories under `results/`, where each subdirectory contains 9 different combinations of n and p.
+
+```text
+results/
+├── Results_Block_02/
+│   ├── n500_p50_B500/
+│   ├── n500_p100_B500/
+│   └── ...
+├── Results_dep_02/
+│   ├── n1000_p50_B500/
+│   └── ...
+└── Results_LSM_02/
+    ├── n1500_p200_B500/
+    └── ...
+```
