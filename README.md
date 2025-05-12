@@ -5,7 +5,7 @@ High-Dimensional Spatial Autoregression with Latent Factors By Diversified Proje
 This repository contains the code for replication of the results in the paper "High-Dimensional Spatial Autoregression with Latent Factors By Diversified Projections".
 
 ## Overview
-The following code files can be used to reproduce simulation results presented in the main paper.
+The following code files can be used to reproduce simulation results and the real data analysis presented in the main paper.
 
 1.  A `README.md` file - This file gives a short description of the paper and an overview of how to carry out the analyses presented in our manuscript.
    
