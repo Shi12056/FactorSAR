@@ -11,7 +11,7 @@ This directory contains all the scripts and outputs used for the simulation stud
 
 ### 1. Uniform Consistency of CMLEs
 
-The following Jupyter notebooks in `scripts/` correspond to the numerical results on the uniform consistency of CMLEs in the paper:
+The following scripts in `scripts/` correspond to the numerical results on the uniform consistency of CMLEs in the paper:
 
 ```text
 scripts/
@@ -48,7 +48,7 @@ results/
 
 ### 2. Uniform Selection Consistency
 
-The following Jupyter notebooks in `scripts/` evaluate model selection performance and correspond to the uniform selection consistency results in the paper:
+The following scripts in `scripts/` evaluate model selection performance and correspond to the uniform selection consistency results in the paper:
 
 ```text
 scripts/
