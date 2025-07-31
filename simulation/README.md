@@ -86,5 +86,5 @@ Relevant simulation outputs required for plotting are provided in the correspond
 
 ---
 
-**Note:** Please ensure the required Python packages are installed before running the notebook. The full list of required packages can be found in the README in the previous level directory.
+**Note:** Please ensure the required Python packages are installed before running the notebook. The full list of required packages can be found in the environment.yaml file the previous level directory.
 
