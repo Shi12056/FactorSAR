@@ -25,7 +25,7 @@ scripts/
 #### •	All supporting functions used in the experiments (such as data generation, parameter estimation, evaluation metrics, etc.) are collected in utils.py, with detailed comments provided for each function to facilitate understanding and customization.
 #### •	The three notebook files correspond to different network models:
       •	SBM.ipynb: Experiments under the Stochastic Block Model (SBM)
-	  •	DIM.ipynb: Experiments under the Degree-corrected Independent Model (DIM)
+	  •	DIM.ipynb: Experiments under the Dyad Independence Model (DIM)
 	  •	LSM.ipynb: Experiments under the Latent Space Model (LSM)
 
 Each notebook walks through the full experimental pipeline under the respective model, including simulation setup and estimation procedures. Comments are provided in each step to clarify its purpose and implementation.
@@ -61,7 +61,7 @@ scripts/
 #### •	Common utility functions used for model selection (such as SCAD penalty implementation, BIC computation, and evaluation routines) are provided in utils_BIC.py, with detailed explanations and comments for clarity.
 #### •	The three notebooks conduct experiments under different network structures:
 	  •	SBM_SCAD_BIC.ipynb: Model selection under the Stochastic Block Model
-	  •	DIM_SCAD_BIC.ipynb: Model selection under the Degree-corrected Independent Model
+	  •	DIM_SCAD_BIC.ipynb: Model selection under the Dyad Independence Model
 	  •	LSM_SCAD_BIC.ipynb: Model selection under the Latent Space Model
 
 Each notebook outlines the complete workflow for model selection using penalized likelihood methods, including data generation, penalized estimation and model evaluation. Comments are provided in each step to clarify its purpose and implementation.
