@@ -7,24 +7,6 @@ This directory contains all the scripts and outputs used for the simulation stud
 - **`results/`**: Contains simulation data and estimation results generated during the experiments.
 
 
-## Requirements
-
-Before running the following scripts, you need python==3.12.4 and the following python packages:
-- numpy=2.0.0
-- pandas=2.2.2
-- scipy=1.14.0
-- statsmodels=0.14.5
-- seaborn=0.13.2
-- scikit-learn=1.5.0
-- ray=2.48.0
-- matplotlib=3.9.0
-
-For your ease, my conda environment is exported as file. You can easily restore the environment by typing command: 
-
-    conda env create -f environment.yaml
-
-It would take you about ten minutes to download all necessary python packages.
-
 ## Structure
 
 ### 1. Uniform Consistency of CMLEs
@@ -104,5 +86,6 @@ Relevant simulation outputs required for plotting are provided in the correspond
 
 ---
 
-
+---
+**Note:** Please ensure the required Python packages are installed before running the notebook. The full list of required packages can be found in the README in the previous level directory.
 
