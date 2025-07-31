@@ -1,4 +1,4 @@
-Simulation studies
+Simulation Studies
 ================
 
 This directory contains all the scripts and outputs used for the simulation studies in the paper. It consists of two subdirectories:
