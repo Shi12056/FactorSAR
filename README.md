@@ -4,6 +4,8 @@ High-Dimensional Spatial Autoregression with Latent Factors by Diversified Proje
 
 This repository contains the code for replication of the results in the paper "High-Dimensional Spatial Autoregression with Latent Factors by Diversified Projections".
 
+> Jiaxin Shi. Xuening Zhu. Jing Zhou. Baichen Yu. and Hansheng Wang. "High-Dimensional Spatial Autoregression with Latent Factors by Diversified Projections." To appear at JASA.
+
 ## Overview
 The following code files can be used to reproduce simulation results and the real data analysis presented in the main paper.
 
